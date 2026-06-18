@@ -1,0 +1,10 @@
+* {
+    font: "JetBrainsMono NF Bold 9";
+    background: #0d0d0d;
+    bg-alt: #8b0000;
+    background-alt: #0d0d0dE0;
+    foreground: #f0f0f0;
+    selected: #448aff;
+    active: #e53935;
+    urgent: #a80000;
+}
