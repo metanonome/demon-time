@@ -2,7 +2,7 @@
 
 A dark red rice for [gh0stzk dotfiles](https://github.com/gh0stzk/dotfiles) based on the Emilia theme.
 
-![preview](preview.webp)
+<img src="preview.webp" width="600"/>
 
 ## Info
 
